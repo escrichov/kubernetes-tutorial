@@ -59,3 +59,23 @@ View usage of nodes (servers)
 ```bash
 kubectl top node
 ```
+
+Guides:
+
+* DigitalOcean volumes
+* Deploy Django
+* Deploy Django + Redis + Postgresql
+https://github.com/waprin/kubernetes_django_postgres_redis
+https://www.agiliq.com/blog/2018/07/django-on-kubernetes/
+https://nick.sarbicki.com/blog/deploy-django-celery-on-k8s/
+https://harishnarayanan.org/writing/kubernetes-django/
+https://2017.djangocon.us/talks/end-to-end-django-on-kubernetes/
+* Postgresql HA
+https://dzone.com/articles/postgresql-kubernetes-how-to-run-ha-postgres-on-ku
+https://portworx.com/ha-postgresql-kubernetes/
+* Redis HA
+* Cronjobs
+* On off containers
+* Citus
+https://github.com/jinhong-/citus-k8s
+* Deploy kubernetes with helm
